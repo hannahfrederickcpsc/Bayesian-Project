@@ -1,6 +1,6 @@
 # DS 6014: Bayesian Machine Learning Final Project
 
-## Viewing our Project
+## Viewing Our Project
 
 All code related to this project can be found in `Bayesian-Final-Code.ipynb` 
 
